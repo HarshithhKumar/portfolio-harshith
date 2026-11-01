@@ -1,6 +1,8 @@
-# Sampangi Harshith Kumar — Developer Portfolio
+# portfolio-harshith
 
-A React and TypeScript portfolio for Sampangi Harshith Kumar, a fourth-year Computer Science and Engineering student specialising in AI and Machine Learning at SRM University-AP. It preserves the site's animated presentation, Three.js character, project showcase, and chess experience while presenting his software, AI/ML, and IoT work.
+## Sampangi Harshith Kumar — Developer Portfolio
+
+This portfolio is built with React and TypeScript for Sampangi Harshith Kumar, a fourth-year Computer Science and Engineering student specialising in AI and Machine Learning at SRM University-AP. It preserves the site's animated presentation, Three.js character, project showcase, and chess experience while presenting his software, AI/ML, and IoT work.
 
 ## Features
 

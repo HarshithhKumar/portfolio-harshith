@@ -2,6 +2,10 @@
 
 An interactive developer portfolio built with **React, TypeScript, and Vite**. The site combines animated sections, a Three.js character, project showcases, and an interactive chess experience.
 
+## Live Portfolio
+
+[Click here to visit the portfolio](https://portfolio-harshith-sigma.vercel.app/)
+
 ## Pages
 
 - **Home**: introduction, skills, experience, and contact section.
@@ -16,16 +20,6 @@ An interactive developer portfolio built with **React, TypeScript, and Vite**. T
 - Dedicated project showcase.
 - Chess functionality and portfolio assistant.
 - Vercel serverless chat endpoint.
-
-## Projects
-
-- [PrepPilot AI](https://github.com/HarshithhKumar/PrepPilot-AI): AI-powered study workspace for notes, revision, and practice. Built with React, Node.js, Express, MongoDB, Gemini, and Stripe.
-- [HookRelay](https://github.com/HarshithhKumar/HookRelay): webhook event processing with keyword rules and traceable message jobs. Built with FastAPI, React, PostgreSQL, SQLAlchemy, and Docker.
-- [Kinetix](https://github.com/HarshithhKumar/Kinetix): human activity recognition using smartphone motion sensor data and a BiLSTM model. Built with Python, TensorFlow, FastAPI, and React.
-- [FarmaI](https://github.com/HarshithhKumar/Farmai-agricultural-app): agricultural application for crop recommendations and plant disease detection. Built with Python, Flask, and TensorFlow.
-- [GestureFusion](https://github.com/HarshithhKumar/GestureFusion): gesture interaction prototype using ESP32 motion sensing and signal processing. Built with ESP32, MATLAB, and Python.
-- [Heat Index](https://github.com/HarshithhKumar/heat-index): weather dashboard for current conditions, forecasts, and air quality. [Live demo](https://heat-index-hk.netlify.app).
-- [Burnly](https://github.com/HarshithhKumar/Burnly): educational regression project for calorie estimation workflows. Built with Python and scikit-learn.
 
 ## Tech stack
 
